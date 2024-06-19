@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "Assets/TP Final Valentin Alfie 4\xB0A.unity"
+  isLoaded: 1
+  isActive: 1
